@@ -1,6 +1,6 @@
 export const peripheralInterfacingSubject = {
-  id: '02-peripheral-interfacing',
-  title: 'Peripheral Interfacing',
+  id: "02-peripheral-interfacing",
+  title: "Peripheral Interfacing",
   description:
-    'Interface digital I/O, display, and analog conversion peripherals with a microcontroller.',
+    "Interface digital I/O, display, and analog conversion peripherals with a microcontroller.",
 };
